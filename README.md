@@ -1,5 +1,4 @@
 # hello-world
-This is my first shot at GitHub
 
 Now, I'm looking at Step 3.
 
